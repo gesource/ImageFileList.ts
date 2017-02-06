@@ -1,0 +1,22 @@
+{
+  "name": "file_donwloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "image_file_list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yamamoto@gesource.jp",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^7.0.0",
+    "tslint": "^4.4.2",
+    "typescript": "^2.1.5",
+    "typings": "^2.1.0"
+  },
+  "dependencies": {
+    "csv": "^1.1.1",
+    "image-size": "^0.5.1",
+    "typescript": "^2.1.5"
+  }
+}
